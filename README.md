@@ -3,7 +3,7 @@
 
 # Project demo link
 
-<a href="https://mithesh14.github.io/404-not-found/">My Team Page</a>
+<a href="https://mithesh14.github.io/my-team-page/">My Team Page</a>
 
 # Screenshots 
 
